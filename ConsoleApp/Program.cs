@@ -10,7 +10,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My First Console App");
+            Console.WriteLine("My First Console Applilcation");
             Console.ReadKey();
         }
     }
