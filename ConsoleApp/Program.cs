@@ -11,7 +11,9 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("My First Console Applilcation");
+            Console.WriteLine("Second Line");
             Console.ReadKey();
+
         }
     }
 }
